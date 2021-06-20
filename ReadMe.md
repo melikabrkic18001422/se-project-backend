@@ -64,5 +64,4 @@ please go through this materials I think they have tried to make using django as
 <br>
 [django documentation](https://docs.djangoproject.com/en/3.2/)
     
- ## Authors
- [Alwavega Kevin](https://github.com/alovega)
+
