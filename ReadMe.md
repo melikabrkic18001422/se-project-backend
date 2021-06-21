@@ -1,5 +1,5 @@
-# ECommerce App
- a simple app that manages customers orders and notifications
+# Flight booking
+ a simple app that manages customers flights
 
 
 ## Table of contents
